@@ -1,1 +1,2 @@
-Print "XD"
+Print ("XD")
+Print ("XD2")
